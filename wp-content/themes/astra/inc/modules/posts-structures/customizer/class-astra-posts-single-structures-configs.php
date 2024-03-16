@@ -1168,27 +1168,22 @@ class Astra_Posts_Single_Structures_Configs extends Astra_Customizer_Config_Base
 					'transport'         => 'postMessage',
 					'title'             => __( 'Font Size', 'astra' ),
 					'sanitize_callback' => array( 'Astra_Customizer_Sanitizes', 'sanitize_responsive_slider' ),
-					'suffix'            => array( 'px', 'em', 'vw', 'rem' ),
+					'suffix'            => array( 'px', 'em', 'vw' ),
 					'input_attrs'       => array(
-						'px'  => array(
+						'px' => array(
 							'min'  => 0,
 							'step' => 1,
 							'max'  => 200,
 						),
-						'em'  => array(
+						'em' => array(
 							'min'  => 0,
 							'step' => 0.01,
 							'max'  => 20,
 						),
-						'vw'  => array(
+						'vw' => array(
 							'min'  => 0,
 							'step' => 0.1,
 							'max'  => 25,
-						),
-						'rem' => array(
-							'min'  => 0,
-							'step' => 0.1,
-							'max'  => 20,
 						),
 					),
 				),
@@ -1253,27 +1248,22 @@ class Astra_Posts_Single_Structures_Configs extends Astra_Customizer_Config_Base
 					'transport'         => 'postMessage',
 					'title'             => __( 'Font Size', 'astra' ),
 					'sanitize_callback' => array( 'Astra_Customizer_Sanitizes', 'sanitize_responsive_slider' ),
-					'suffix'            => array( 'px', 'em', 'vw', 'rem' ),
+					'suffix'            => array( 'px', 'em', 'vw' ),
 					'input_attrs'       => array(
-						'px'  => array(
+						'px' => array(
 							'min'  => 0,
 							'step' => 1,
 							'max'  => 200,
 						),
-						'em'  => array(
+						'em' => array(
 							'min'  => 0,
 							'step' => 0.01,
 							'max'  => 20,
 						),
-						'vw'  => array(
+						'vw' => array(
 							'min'  => 0,
 							'step' => 0.1,
 							'max'  => 25,
-						),
-						'rem' => array(
-							'min'  => 0,
-							'step' => 0.1,
-							'max'  => 20,
 						),
 					),
 				),
@@ -1357,27 +1347,22 @@ class Astra_Posts_Single_Structures_Configs extends Astra_Customizer_Config_Base
 					'transport'         => 'postMessage',
 					'title'             => __( 'Font Size', 'astra' ),
 					'sanitize_callback' => array( 'Astra_Customizer_Sanitizes', 'sanitize_responsive_slider' ),
-					'suffix'            => array( 'px', 'em', 'vw', 'rem' ),
+					'suffix'            => array( 'px', 'em', 'vw' ),
 					'input_attrs'       => array(
-						'px'  => array(
+						'px' => array(
 							'min'  => 0,
 							'step' => 1,
 							'max'  => 200,
 						),
-						'em'  => array(
+						'em' => array(
 							'min'  => 0,
 							'step' => 0.01,
 							'max'  => 20,
 						),
-						'vw'  => array(
+						'vw' => array(
 							'min'  => 0,
 							'step' => 0.1,
 							'max'  => 25,
-						),
-						'rem' => array(
-							'min'  => 0,
-							'step' => 0.1,
-							'max'  => 20,
 						),
 					),
 				),
@@ -1469,7 +1454,7 @@ class Astra_Posts_Single_Structures_Configs extends Astra_Customizer_Config_Base
 			}
 
 			if ( 'post' !== $post_type && Astra_Builder_Helper::$is_header_footer_builder_active ) {
-				$_configs = array_merge( $_configs, Astra_Extended_Base_Configuration::prepare_advanced_tab( $parent_section ) );
+				$_configs = array_merge( $_configs, Astra_Builder_Base_Configuration::prepare_advanced_tab( $parent_section ) );
 			}
 
 			/** @psalm-suppress InvalidArgument */ // phpcs:ignore Generic.Commenting.DocComment.MissingShort

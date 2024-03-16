@@ -491,14 +491,7 @@ if ( ! class_exists( 'Astra_Blog_Layout_Configs' ) ) {
 					'type'     => 'control',
 					'control'  => 'ast-heading',
 					'priority' => 1,
-					'context'  => array(
-						Astra_Builder_Helper::$design_tab_config,
-						array(
-							'setting'  => ASTRA_THEME_SETTINGS . '[blog-layout]',
-							'operator' => '===',
-							'value'    => 'blog-layout-6',
-						),
-					),
+					'context'  => Astra_Builder_Helper::$design_tab,
 				),
 
 				array(
@@ -664,15 +657,16 @@ if ( ! class_exists( 'Astra_Blog_Layout_Configs' ) ) {
 				),
 			);
 
-			$_configs[] = array(
-				'name'        => 'section-blog-ast-context-tabs',
-				'section'     => 'section-blog',
-				'type'        => 'control',
-				'control'     => 'ast-builder-header-control',
-				'priority'    => 0,
-				'description' => '',
-			);
-
+			if ( true === Astra_Builder_Helper::$is_header_footer_builder_active ) {
+				$_configs[] = array(
+					'name'        => 'section-blog-ast-context-tabs',
+					'section'     => 'section-blog',
+					'type'        => 'control',
+					'control'     => 'ast-builder-header-control',
+					'priority'    => 0,
+					'description' => '',
+				);
+			}
 			/** @psalm-suppress UndefinedClass */ // phpcs:ignore Generic.Commenting.DocComment.MissingShort
 			if ( ! defined( 'ASTRA_EXT_VER' ) || ( defined( 'ASTRA_EXT_VER' ) && ! Astra_Ext_Extension::is_active( 'blog-pro' ) ) ) {
 

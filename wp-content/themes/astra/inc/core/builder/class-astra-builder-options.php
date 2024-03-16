@@ -1408,67 +1408,9 @@ function astra_prepare_button_defaults( $defaults, $index ) {
 
 	$defaults[ 'header-' . $_prefix . '-border-radius' ] = '';
 
-	$astra_4_6_4_compatibility = Astra_Dynamic_CSS::astra_4_6_4_compatibility();
-	$legacy_hb_button_padding  = $apply_new_default_color_typo_values ? Astra_Builder_Helper::$default_button_responsive_spacing : Astra_Builder_Helper::$default_responsive_spacing;
-
-	/** @psalm-suppress PossiblyUndefinedStringArrayOffset */ // phpcs:ignore Generic.Commenting.DocComment.MissingShort
-	$builder_button_top_padding = isset( $astra_options[ 'section-hb-button-' . $index . '-padding' ]['desktop']['top'] ) ? $astra_options[ 'section-hb-button-' . $index . '-padding' ]['desktop']['top'] : $legacy_hb_button_padding['desktop']['top'];
-	/** @psalm-suppress PossiblyUndefinedStringArrayOffset */ // phpcs:ignore Generic.Commenting.DocComment.MissingShort
-	$builder_button_right_padding = isset( $astra_options[ 'section-hb-button-' . $index . '-padding' ]['desktop']['right'] ) ? $astra_options[ 'section-hb-button-' . $index . '-padding' ]['desktop']['right'] : $legacy_hb_button_padding['desktop']['right'];
-	/** @psalm-suppress PossiblyUndefinedStringArrayOffset */ // phpcs:ignore Generic.Commenting.DocComment.MissingShort
-	$builder_button_bottom_padding = isset( $astra_options[ 'section-hb-button-' . $index . '-padding' ]['desktop']['bottom'] ) ? $astra_options[ 'section-hb-button-' . $index . '-padding' ]['desktop']['bottom'] : $legacy_hb_button_padding['desktop']['bottom'];
-	/** @psalm-suppress PossiblyUndefinedStringArrayOffset */ // phpcs:ignore Generic.Commenting.DocComment.MissingShort
-	$builder_button_left_padding = isset( $astra_options[ 'section-hb-button-' . $index . '-padding' ]['desktop']['left'] ) ? $astra_options[ 'section-hb-button-' . $index . '-padding' ]['desktop']['left'] : $legacy_hb_button_padding['desktop']['left'];
-	/** @psalm-suppress PossiblyUndefinedStringArrayOffset */ // phpcs:ignore Generic.Commenting.DocComment.MissingShort
-
-	$defaults[ 'section-hb-button-' . $index . '-padding' ]         = array(
-		'desktop'      => array(
-			'top'    => $astra_4_6_4_compatibility ? 15 : $builder_button_top_padding,
-			'right'  => $astra_4_6_4_compatibility ? 30 : $builder_button_right_padding,
-			'bottom' => $astra_4_6_4_compatibility ? 15 : $builder_button_bottom_padding,
-			'left'   => $astra_4_6_4_compatibility ? 30 : $builder_button_left_padding,
-		),
-		'tablet'       => array(
-			'top'    => '',
-			'right'  => '',
-			'bottom' => '',
-			'left'   => '',
-		),
-		'mobile'       => array(
-			'top'    => '',
-			'right'  => '',
-			'bottom' => '',
-			'left'   => '',
-		),
-		'desktop-unit' => 'px',
-		'tablet-unit'  => 'px',
-		'mobile-unit'  => 'px',
-	);
-	$defaults[ 'header-button' . $index . '-border-radius-fields' ] = array(
-		'desktop'      => array(
-			'top'    => $astra_4_6_4_compatibility ? 40 : '',
-			'right'  => $astra_4_6_4_compatibility ? 40 : '',
-			'bottom' => $astra_4_6_4_compatibility ? 40 : '',
-			'left'   => $astra_4_6_4_compatibility ? 40 : '',
-		),
-		'tablet'       => array(
-			'top'    => '',
-			'right'  => '',
-			'bottom' => '',
-			'left'   => '',
-		),
-		'mobile'       => array(
-			'top'    => '',
-			'right'  => '',
-			'bottom' => '',
-			'left'   => '',
-		),
-		'desktop-unit' => 'px',
-		'tablet-unit'  => 'px',
-		'mobile-unit'  => 'px',
-	);
-	$defaults[ 'section-hb-button-' . $index . '-margin' ]          = Astra_Builder_Helper::$default_responsive_spacing;
-	$defaults[ 'sticky-header-button' . $index . '-padding' ]       = Astra_Builder_Helper::$default_responsive_spacing;
+	$defaults[ 'section-hb-button-' . $index . '-padding' ]   = $apply_new_default_color_typo_values ? Astra_Builder_Helper::$default_button_responsive_spacing : Astra_Builder_Helper::$default_responsive_spacing;
+	$defaults[ 'section-hb-button-' . $index . '-margin' ]    = Astra_Builder_Helper::$default_responsive_spacing;
+	$defaults[ 'sticky-header-button' . $index . '-padding' ] = Astra_Builder_Helper::$default_responsive_spacing;
 
 
 	$_prefix = 'button' . $index;
@@ -1575,64 +1517,8 @@ function astra_prepare_button_defaults( $defaults, $index ) {
 		'mobile'  => 'center',
 	);
 
-	$legacy_fb_button_padding = Astra_Builder_Helper::$default_responsive_spacing;
-	/** @psalm-suppress PossiblyUndefinedStringArrayOffset */ // phpcs:ignore Generic.Commenting.DocComment.MissingShort
-	$builder_button_top_padding = isset( $astra_options[ 'section-fb-button-' . $index . '-padding' ]['desktop']['top'] ) ? $astra_options[ 'section-fb-button-' . $index . '-padding' ]['desktop']['top'] : $legacy_fb_button_padding['desktop']['top'];
-	/** @psalm-suppress PossiblyUndefinedStringArrayOffset */ // phpcs:ignore Generic.Commenting.DocComment.MissingShort
-	$builder_button_right_padding = isset( $astra_options[ 'section-fb-button-' . $index . '-padding' ]['desktop']['right'] ) ? $astra_options[ 'section-fb-button-' . $index . '-padding' ]['desktop']['right'] : $legacy_fb_button_padding['desktop']['right'];
-	/** @psalm-suppress PossiblyUndefinedStringArrayOffset */ // phpcs:ignore Generic.Commenting.DocComment.MissingShort
-	$builder_button_bottom_padding = isset( $astra_options[ 'section-fb-button-' . $index . '-padding' ]['desktop']['bottom'] ) ? $astra_options[ 'section-fb-button-' . $index . '-padding' ]['desktop']['bottom'] : $legacy_fb_button_padding['desktop']['bottom'];
-	/** @psalm-suppress PossiblyUndefinedStringArrayOffset */ // phpcs:ignore Generic.Commenting.DocComment.MissingShort
-	$builder_button_left_padding = isset( $astra_options[ 'section-fb-button-' . $index . '-padding' ]['desktop']['left'] ) ? $astra_options[ 'section-fb-button-' . $index . '-padding' ]['desktop']['left'] : $legacy_fb_button_padding['desktop']['left'];
-	/** @psalm-suppress PossiblyUndefinedStringArrayOffset */ // phpcs:ignore Generic.Commenting.DocComment.MissingShort
-
-	$defaults[ 'section-fb-button-' . $index . '-padding' ]         = array(
-		'desktop'      => array(
-			'top'    => $astra_4_6_4_compatibility ? 15 : $builder_button_top_padding,
-			'right'  => $astra_4_6_4_compatibility ? 30 : $builder_button_right_padding,
-			'bottom' => $astra_4_6_4_compatibility ? 15 : $builder_button_bottom_padding,
-			'left'   => $astra_4_6_4_compatibility ? 30 : $builder_button_left_padding,
-		),
-		'tablet'       => array(
-			'top'    => '',
-			'right'  => '',
-			'bottom' => '',
-			'left'   => '',
-		),
-		'mobile'       => array(
-			'top'    => '',
-			'right'  => '',
-			'bottom' => '',
-			'left'   => '',
-		),
-		'desktop-unit' => 'px',
-		'tablet-unit'  => 'px',
-		'mobile-unit'  => 'px',
-	);
-	$defaults[ 'section-fb-button-' . $index . '-margin' ]          = Astra_Builder_Helper::$default_responsive_spacing;
-	$defaults[ 'footer-button' . $index . '-border-radius-fields' ] = array(
-		'desktop'      => array(
-			'top'    => $astra_4_6_4_compatibility ? 40 : '',
-			'right'  => $astra_4_6_4_compatibility ? 40 : '',
-			'bottom' => $astra_4_6_4_compatibility ? 40 : '',
-			'left'   => $astra_4_6_4_compatibility ? 40 : '',
-		),
-		'tablet'       => array(
-			'top'    => '',
-			'right'  => '',
-			'bottom' => '',
-			'left'   => '',
-		),
-		'mobile'       => array(
-			'top'    => '',
-			'right'  => '',
-			'bottom' => '',
-			'left'   => '',
-		),
-		'desktop-unit' => 'px',
-		'tablet-unit'  => 'px',
-		'mobile-unit'  => 'px',
-	);
+	$defaults[ 'section-fb-button-' . $index . '-padding' ] = Astra_Builder_Helper::$default_responsive_spacing;
+	$defaults[ 'section-fb-button-' . $index . '-margin' ]  = Astra_Builder_Helper::$default_responsive_spacing;
 
 	return $defaults;
 }

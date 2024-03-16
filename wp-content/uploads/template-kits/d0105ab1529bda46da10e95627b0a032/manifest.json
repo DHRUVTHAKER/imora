@@ -1,0 +1,2209 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Luxeliving \u2013 Luxury Resort & Hotel Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm - Booking 1",
+            "screenshot": "screenshots\/metform-booking-1.jpg",
+            "source": "templates\/metform-booking-1.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/metform-booking-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "JKit Tab - Room",
+            "screenshot": "screenshots\/jkit-tab-room.jpg",
+            "source": "templates\/jkit-tab-room.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/jkit-tab-room\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Rooms",
+            "screenshot": "screenshots\/our-rooms.jpg",
+            "source": "templates\/our-rooms.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/our-rooms\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm - Booking 2",
+            "screenshot": "screenshots\/metform-booking-2.jpg",
+            "source": "templates\/metform-booking-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/metform-booking-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Room Details",
+            "screenshot": "screenshots\/room-details.jpg",
+            "source": "templates\/room-details.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/room-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Facilities",
+            "screenshot": "screenshots\/facilities.jpg",
+            "source": "templates\/facilities.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/facilities\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Booking",
+            "screenshot": "screenshots\/booking.jpg",
+            "source": "templates\/booking.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/booking\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm - Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/metform-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Package",
+            "screenshot": "screenshots\/package.jpg",
+            "source": "templates\/package.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/package\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "JKit - Off Canvas",
+            "screenshot": "screenshots\/jkit-off-canvas.jpg",
+            "source": "templates\/jkit-off-canvas.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/jkit-off-canvas\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.16.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.2",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.2.3",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "romantic-honeymoon-hotel-suite-2022-10-28-21-38-26-utc-e1699260856144.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/romantic-honeymoon-hotel-suite-2022-10-28-21-38-26-utc-e1699260856144-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/jkit-tab-room.json",
+                    "name": "JKit Tab - Room"
+                },
+                {
+                    "source": "templates\/our-rooms.json",
+                    "name": "Our Rooms"
+                },
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 226924,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/romantic-honeymoon-hotel-suite-CYPPC72"
+        },
+        {
+            "filename": "Image-FT652QY.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/Image-FT652QY-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/jkit-tab-room.json",
+                    "name": "JKit Tab - Room"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 240984,
+            "dimensions": [
+                1600,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FT652QY"
+        },
+        {
+            "filename": "Image-G5XDD8T-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/Image-G5XDD8T-1-800x784.jpg",
+            "templates": [
+                {
+                    "source": "templates\/jkit-tab-room.json",
+                    "name": "JKit Tab - Room"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 192175,
+            "dimensions": [
+                1600,
+                1568
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-G5XDD8T"
+        },
+        {
+            "filename": "we-do-creative-films-IKdtLI6SHhI-unsplash-3-e1699263969115.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/09\/we-do-creative-films-IKdtLI6SHhI-unsplash-3-e1699263969115-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/jkit-tab-room.json",
+                    "name": "JKit Tab - Room"
+                }
+            ],
+            "filesize": 324573,
+            "dimensions": [
+                1600,
+                1066
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/an-aerial-view-of-a-pool-surrounded-by-palm-trees-IKdtLI6SHhI"
+        },
+        {
+            "filename": "Group-32.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/Group-32.png",
+            "templates": [
+                {
+                    "source": "templates\/jkit-tab-room.json",
+                    "name": "JKit Tab - Room"
+                }
+            ],
+            "filesize": 3555,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/honeymoon-icon-X7XNZGX"
+        },
+        {
+            "filename": "Group-14.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/09\/Group-14.png",
+            "templates": [
+                {
+                    "source": "templates\/jkit-tab-room.json",
+                    "name": "JKit Tab - Room"
+                },
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 2556,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-icons-EU4LVUP"
+        },
+        {
+            "filename": "Group-8-1-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/09\/Group-8-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/jkit-tab-room.json",
+                    "name": "JKit Tab - Room"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2986,
+            "dimensions": [
+                163,
+                164
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-line-icons-JSXPE7K"
+        },
+        {
+            "filename": "luxury-resort-in-forest-surrounded-by-trees-2021-08-26-19-58-26-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/luxury-resort-in-forest-surrounded-by-trees-2021-08-26-19-58-26-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 323385,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/luxury-resort-in-forest-surrounded-by-trees-PNEMQZU"
+        },
+        {
+            "filename": "an-aerial-view-of-a-pristine-beach-with-several-lu-2023-07-17-23-41-00-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/an-aerial-view-of-a-pristine-beach-with-several-lu-2023-07-17-23-41-00-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 327526,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/an-aerial-view-of-a-pristine-beach-with-several-lu-AF9H38U"
+        },
+        {
+            "filename": "Group-8.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/09\/Group-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3155,
+            "dimensions": [
+                164,
+                164
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-line-icons-JSXPE7K"
+        },
+        {
+            "filename": "Group-31.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/09\/Group-31.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 6570,
+            "dimensions": [
+                164,
+                164
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-and-therapy-outline-icons-H2SPXPG"
+        },
+        {
+            "filename": "Group-10.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/09\/Group-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 5576,
+            "dimensions": [
+                164,
+                164
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/customer-service-icons-AUHGPDS"
+        },
+        {
+            "filename": "Group-7.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/09\/Group-7.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4657,
+            "dimensions": [
+                164,
+                164
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/github.com\/webalys-hq\/streamline-vectors"
+        },
+        {
+            "filename": "new1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/new1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 121079,
+            "dimensions": [
+                960,
+                640
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-villa-with-pool-and-deck-with-interior-5H3J8V5"
+        },
+        {
+            "filename": "new2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/new2-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 163054,
+            "dimensions": [
+                960,
+                1440
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/a-pool-with-a-lounge-chair-and-a-sign-above-it-a3ly0RqbZdw"
+        },
+        {
+            "filename": "new3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/new3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 338650,
+            "dimensions": [
+                960,
+                640
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bohemian-bali-style-interior-lounge-G5XDD8T"
+        },
+        {
+            "filename": "new4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/new4-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 311728,
+            "dimensions": [
+                960,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/an-aerial-view-of-a-pool-surrounded-by-palm-trees-IKdtLI6SHhI"
+        },
+        {
+            "filename": "new6.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/new6-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 329511,
+            "dimensions": [
+                960,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/breakfast-and-afternoon-tea-set-floating-around-sw-7STDUYD"
+        },
+        {
+            "filename": "new5.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/new5-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 125091,
+            "dimensions": [
+                960,
+                640
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-bathroom-interior-design-on-white-wall-9PFJJNS"
+        },
+        {
+            "filename": "interior-design-of-neutral-bohemian-living-room-in-2022-12-07-04-18-56-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/interior-design-of-neutral-bohemian-living-room-in-2022-12-07-04-18-56-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 321081,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/interior-design-of-neutral-bohemian-living-room-in-5T6KVS4"
+        },
+        {
+            "filename": "proud-positive-successful-caucasian-bearded-busine-UX33FLQ-150x150-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/proud-positive-successful-caucasian-bearded-busine-UX33FLQ-150x150-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-rooms.json",
+                    "name": "Our Rooms"
+                }
+            ],
+            "filesize": 4724,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/proud-positive-successful-caucasian-bearded-busine-UX33FLQ"
+        },
+        {
+            "filename": "testimonial-83S5W35-150x150-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/testimonial-83S5W35-150x150-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-rooms.json",
+                    "name": "Our Rooms"
+                }
+            ],
+            "filesize": 4916,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/small-business-owners-startup-and-e-commerce-conce-83S5W35"
+        },
+        {
+            "filename": "repairman-small-WEJMUQM.jpeg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/repairman-small-WEJMUQM.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-rooms.json",
+                    "name": "Our Rooms"
+                }
+            ],
+            "filesize": 53963,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/adult-repairman-in-tool-belt-standing-with-crossed-WEJMUQM"
+        },
+        {
+            "filename": "testimonial-M6NJPEF-150x150-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/testimonial-M6NJPEF-150x150-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-rooms.json",
+                    "name": "Our Rooms"
+                }
+            ],
+            "filesize": 26294,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/motivated-cheerful-and-glad-pleasant-caucasian-adu-M6NJPEF"
+        },
+        {
+            "filename": "testimonial-N8572T7-150x150-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/testimonial-N8572T7-150x150-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-rooms.json",
+                    "name": "Our Rooms"
+                }
+            ],
+            "filesize": 6798,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/have-the-confidence-to-fulfill-your-ambitions-N8572T7"
+        },
+        {
+            "filename": "testimonial-A8E2W8S-150x150-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/testimonial-A8E2W8S-150x150-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-rooms.json",
+                    "name": "Our Rooms"
+                }
+            ],
+            "filesize": 8850,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/imagine-where-your-ambition-could-take-you-A8E2W8S"
+        },
+        {
+            "filename": "late-afternoon-light-on-a-beige-wall-2022-12-16-00-29-07-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/late-afternoon-light-on-a-beige-wall-2022-12-16-00-29-07-utc-800x576.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 306643,
+            "dimensions": [
+                2000,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/late-afternoon-light-on-a-beige-wall-R9TSM45"
+        },
+        {
+            "filename": "Highest-rating-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/Highest-rating-1-800x664.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 58091,
+            "dimensions": [
+                1077,
+                894
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/90-laurel-wreath-collection-3N7MKU"
+        },
+        {
+            "filename": "Hotel-of-the-Year.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/Hotel-of-the-Year-800x911.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 52843,
+            "dimensions": [
+                931,
+                1060
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/90-laurel-wreath-collection-3N7MKU"
+        },
+        {
+            "filename": "Premium-Hotel.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/Premium-Hotel-800x826.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 60703,
+            "dimensions": [
+                988,
+                1020
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/90-laurel-wreath-collection-3N7MKU"
+        },
+        {
+            "filename": "interior-design-of-neutral-bohemian-living-room-in-2022-12-07-04-25-25-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/interior-design-of-neutral-bohemian-living-room-in-2022-12-07-04-25-25-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-rooms.json",
+                    "name": "Our Rooms"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                }
+            ],
+            "filesize": 313934,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/interior-design-of-neutral-bohemian-living-room-in-RZF48FS"
+        },
+        {
+            "filename": "Group-11.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/09\/Group-11.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 5942,
+            "dimensions": [
+                163,
+                164
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-and-therapy-outline-icons-H2SPXPG"
+        },
+        {
+            "filename": "Sport.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/Sport.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 4674,
+            "dimensions": [
+                156,
+                157
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/github.com\/coreui\/coreui-icons"
+        },
+        {
+            "filename": "professional-businessman-full-body-portrait1.jpeg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/professional-businessman-full-body-portrait1-800x800.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 128297,
+            "dimensions": [
+                1440,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/professional-businessman-full-body-portrait-GK3Z3EH"
+        },
+        {
+            "filename": "a-man-in-a-business-suit-businessman-poses-against-2023-10-11-00-17-55-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/a-man-in-a-business-suit-businessman-poses-against-2023-10-11-00-17-55-utc-1-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 319578,
+            "dimensions": [
+                1440,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-man-in-a-business-suit-businessman-poses-against-GQSG7WC"
+        },
+        {
+            "filename": "portrait-of-stylish-businesswoman-with-notepad-iso.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/portrait-of-stylish-businesswoman-with-notepad-iso-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 225568,
+            "dimensions": [
+                1440,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-stylish-businesswoman-with-notepad-iso-RY48A7U"
+        },
+        {
+            "filename": "studio-portrait-of-smiling-mature-businesswoman-we-2022-02-08-02-13-34-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/studio-portrait-of-smiling-mature-businesswoman-we-2022-02-08-02-13-34-utc-1-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 324011,
+            "dimensions": [
+                1440,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/studio-portrait-of-smiling-mature-businesswoman-we-ESF7R4H"
+        },
+        {
+            "filename": "business-colleagues-collaborating-and-discussing-p-2021-08-26-17-34-01-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/business-colleagues-collaborating-and-discussing-p-2021-08-26-17-34-01-utc-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 314314,
+            "dimensions": [
+                1440,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-colleagues-collaborating-and-discussing-p-3AEZ5PM"
+        },
+        {
+            "filename": "interior-design-of-neutral-bohemian-living-room-in-2022-12-07-04-25-25-2utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/interior-design-of-neutral-bohemian-living-room-in-2022-12-07-04-25-25-2utc-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-rooms.json",
+                    "name": "Our Rooms"
+                }
+            ],
+            "filesize": 313841,
+            "dimensions": [
+                1920,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/interior-design-of-neutral-bohemian-living-room-in-RZF48FS"
+        },
+        {
+            "filename": "bed-setting-2021-08-28-22-29-35-utc-e1699263576891.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/bed-setting-2021-08-28-22-29-35-utc-e1699263576891-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-rooms.json",
+                    "name": "Our Rooms"
+                },
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 340114,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/bed-setting-BGHZ962"
+        },
+        {
+            "filename": "modern-villa-with-pool-and-deck-with-interior-2022-05-10-02-44-06-utc-1-e1699263612715.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/modern-villa-with-pool-and-deck-with-interior-2022-05-10-02-44-06-utc-1-e1699263612715-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-rooms.json",
+                    "name": "Our Rooms"
+                }
+            ],
+            "filesize": 272779,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-villa-with-pool-and-deck-with-interior-G53DRR8"
+        },
+        {
+            "filename": "Image-GQKUP5W.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/Image-GQKUP5W-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-rooms.json",
+                    "name": "Our Rooms"
+                }
+            ],
+            "filesize": 259548,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GQKUP5W"
+        },
+        {
+            "filename": "bedroom-with-wooden-ceiling-2021-08-26-15-43-53-utc-e1699263661567.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/bedroom-with-wooden-ceiling-2021-08-26-15-43-53-utc-e1699263661567-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-rooms.json",
+                    "name": "Our Rooms"
+                }
+            ],
+            "filesize": 305750,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/bedroom-with-wooden-ceiling-PBTD9NG"
+        },
+        {
+            "filename": "hotel-room-2021-08-26-17-52-59-utc-e1699263677206.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/hotel-room-2021-08-26-17-52-59-utc-e1699263677206-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-rooms.json",
+                    "name": "Our Rooms"
+                }
+            ],
+            "filesize": 260567,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-room-P8NCR59"
+        },
+        {
+            "filename": "closeup-of-bed-with-beige-blanket-and-linen-pillow-2021-08-26-15-45-33-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/closeup-of-bed-with-beige-blanket-and-linen-pillow-2021-08-26-15-45-33-utc-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                }
+            ],
+            "filesize": 325236,
+            "dimensions": [
+                1920,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/closeup-of-bed-with-beige-blanket-and-linen-pillow-3YZMCFA"
+        },
+        {
+            "filename": "interior-design-of-neutral-bohemian-living-room-2022-12-07-04-26-15-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/interior-design-of-neutral-bohemian-living-room-2022-12-07-04-26-15-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 316483,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/interior-design-of-neutral-bohemian-living-room-in-SCDH6SL"
+        },
+        {
+            "filename": "icon-features-bed-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-bed-1.png",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 2881,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-icons-EU4LVUP"
+        },
+        {
+            "filename": "icon-features-living-room-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-living-room-1.png",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 2340,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-icons-EU4LVUP"
+        },
+        {
+            "filename": "icon-features-Kitchen-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-Kitchen-1.png",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 2159,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-icons-EU4LVUP"
+        },
+        {
+            "filename": "icon-features-pool-2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-pool-2.png",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 2368,
+            "dimensions": [
+                163,
+                164
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-line-icons-JSXPE7K"
+        },
+        {
+            "filename": "icon-features-pool-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-pool-1.png",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 2274,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/github.com\/Templarian\/MaterialDesign"
+        },
+        {
+            "filename": "Group-38.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/Group-38.png",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 3318,
+            "dimensions": [
+                158,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-icons-EU4LVUP"
+        },
+        {
+            "filename": "Group-36.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/Group-36.png",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 3859,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/honeymoon-icon-X7XNZGX"
+        },
+        {
+            "filename": "Group-37.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/Group-37.png",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 4856,
+            "dimensions": [
+                164,
+                164
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/customer-service-icons-AUHGPDS"
+        },
+        {
+            "filename": "icon-features-breakfast-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-breakfast-1.png",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 6612,
+            "dimensions": [
+                163,
+                164
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/breakfast-outline-icons-UAE32TJ"
+        },
+        {
+            "filename": "icon-features-dinner-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-dinner-1.png",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 7022,
+            "dimensions": [
+                161,
+                164
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/breakfast-outline-icons-UAE32TJ"
+        },
+        {
+            "filename": "icon-features-spa-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-spa-1.png",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 5538,
+            "dimensions": [
+                162,
+                162
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-and-therapy-outline-icons-H2SPXPG"
+        },
+        {
+            "filename": "icon-features-Gift.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-Gift.png",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 2522,
+            "dimensions": [
+                158,
+                160
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/github.com\/phosphor-icons\/core"
+        },
+        {
+            "filename": "Image-9RDF6RK.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/Image-9RDF6RK-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 226666,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9RDF6RK"
+        },
+        {
+            "filename": "Image-YUZW4MZ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/Image-YUZW4MZ-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 254784,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YUZW4MZ"
+        },
+        {
+            "filename": "Image-PKJNCA9.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/Image-PKJNCA9-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 269032,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PKJNCA9"
+        },
+        {
+            "filename": "Image-GzlAFw.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/Image-GzlAFw-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 284102,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/thatch-huts-and-houses-by-the-pool-during-day--27u_GzlAFw"
+        },
+        {
+            "filename": "Image-FFFE33J.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/Image-FFFE33J-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 199642,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FFFE33J"
+        },
+        {
+            "filename": "Image-VUDMRC6.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/Image-VUDMRC6-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-details.json",
+                    "name": "Room Details"
+                }
+            ],
+            "filesize": 238259,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VUDMRC6"
+        },
+        {
+            "filename": "stylish-interior-design-of-living-room-2022-12-07-04-20-46-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/stylish-interior-design-of-living-room-2022-12-07-04-20-46-utc-1-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 320100,
+            "dimensions": [
+                1920,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/stylish-interior-design-of-living-room-XNXHKSF"
+        },
+        {
+            "filename": "living-room-with-decorative-chandelier-2021-08-26-15-45-20-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/living-room-with-decorative-chandelier-2021-08-26-15-45-20-utc-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 323540,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/living-room-with-decorative-chandelier-PYZ6R4J"
+        },
+        {
+            "filename": "simple-bohemian-kitchen-set-up-2022-11-15-02-09-29-utc-e1699264262572.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/09\/simple-bohemian-kitchen-set-up-2022-11-15-02-09-29-utc-e1699264262572-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 274156,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-bohemian-kitchen-set-up-2TF6752"
+        },
+        {
+            "filename": "Group-13.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/09\/Group-13.png",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 3060,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-icons-EU4LVUP"
+        },
+        {
+            "filename": "Group-33.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/Group-33.png",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 2020,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-icons-EU4LVUP"
+        },
+        {
+            "filename": "icon-features-pool-3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-pool-3.png",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 2631,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/github.com\/Templarian\/MaterialDesign"
+        },
+        {
+            "filename": "icon-features-wifi-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-wifi-1.png",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 3553,
+            "dimensions": [
+                158,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-icons-EU4LVUP"
+        },
+        {
+            "filename": "Group-22.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/09\/Group-22.png",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 3155,
+            "dimensions": [
+                164,
+                164
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hotel-line-icons-JSXPE7K"
+        },
+        {
+            "filename": "about-us-gallery-4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/about-us-gallery-4-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 324323,
+            "dimensions": [
+                960,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/aerial-photography-of-clay-tennis-court-complex-on-SQJ63MT"
+        },
+        {
+            "filename": "pancakes-with-berries-and-honey-on-a-white-plate-2021-08-31-12-20-35-utc-e1699260544432.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/pancakes-with-berries-and-honey-on-a-white-plate-2021-08-31-12-20-35-utc-e1699260544432-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 215224,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pancakes-with-berries-and-honey-on-a-white-plate-w-DEZ9F3N"
+        },
+        {
+            "filename": "handsome-man-ringing-service-bell-at-reception-des-2023-05-22-22-54-18-utc-e1699260738831.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/handsome-man-ringing-service-bell-at-reception-des-2023-05-22-22-54-18-utc-e1699260738831-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 216278,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-man-ringing-service-bell-at-reception-des-SM4V9RD"
+        },
+        {
+            "filename": "woman-getting-face-and-head-massage-2022-02-02-03-59-07-utc-e1699260620243.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/woman-getting-face-and-head-massage-2022-02-02-03-59-07-utc-e1699260620243-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 215361,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-getting-face-and-head-massage-FRWTLCK"
+        },
+        {
+            "filename": "table-in-the-woods-romantic-dinner-for-two-by-can-2021-10-21-02-41-28-utc22-e1699260390537.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/table-in-the-woods-romantic-dinner-for-two-by-can-2021-10-21-02-41-28-utc22-e1699260390537-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 328133,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/table-in-the-woods-romantic-dinner-for-two-by-cand-BKMCS4A"
+        },
+        {
+            "filename": "Image-EQQQTQ6.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/Image-EQQQTQ6-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 158945,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EQQQTQ6"
+        },
+        {
+            "filename": "Image-EZB9VJF.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/Image-EZB9VJF-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 187172,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EZB9VJF"
+        },
+        {
+            "filename": "Image-ZFFDQMQ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/Image-ZFFDQMQ-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 201417,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZFFDQMQ"
+        },
+        {
+            "filename": "Image-5SM87GV.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/Image-5SM87GV-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 201493,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5SM87GV"
+        },
+        {
+            "filename": "Image-YUWHU68.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/Image-YUWHU68-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 179310,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YUWHU68"
+        },
+        {
+            "filename": "Image-OOTEpsO2eV0.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/Image-OOTEpsO2eV0-800x768.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 194500,
+            "dimensions": [
+                1600,
+                1536
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/rocky-mountain-photograph-OOTEpsO2eV0"
+        },
+        {
+            "filename": "icon-features-pool-4.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-pool-4.png",
+            "templates": [
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                }
+            ],
+            "filesize": 2352,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/github.com\/microsoft\/fluentui-system-icons"
+        },
+        {
+            "filename": "icon-features-dinner-3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-dinner-3.png",
+            "templates": [
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                }
+            ],
+            "filesize": 1735,
+            "dimensions": [
+                162,
+                164
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/github.com\/CoreyGinnivan\/system-uicons"
+        },
+        {
+            "filename": "icon-features-parking-2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-parking-2.png",
+            "templates": [
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                }
+            ],
+            "filesize": 4179,
+            "dimensions": [
+                158,
+                160
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/github.com\/microsoft\/fluentui-system-icons"
+        },
+        {
+            "filename": "icon-features-pool-1-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-pool-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                }
+            ],
+            "filesize": 2564,
+            "dimensions": [
+                164,
+                164
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/github.com\/microsoft\/fluentui-system-icons"
+        },
+        {
+            "filename": "icon-features-dinner-1-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-dinner-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                }
+            ],
+            "filesize": 2378,
+            "dimensions": [
+                158,
+                160
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/github.com\/Templarian\/MaterialDesign"
+        },
+        {
+            "filename": "family-checking-in-hotel-2022-05-23-10-12-14-utc-e1699264655784.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/family-checking-in-hotel-2022-05-23-10-12-14-utc-e1699264655784-800x576.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 200559,
+            "dimensions": [
+                1600,
+                1152
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/family-checking-in-hotel-HSAJMNR"
+        },
+        {
+            "filename": "picture-of-family-checking-in-hotel-2022-01-04-01-23-00-utc-e1699264676251.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/picture-of-family-checking-in-hotel-2022-01-04-01-23-00-utc-e1699264676251-800x576.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 172101,
+            "dimensions": [
+                1600,
+                1152
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/picture-of-family-checking-in-hotel-DMBG6KW"
+        },
+        {
+            "filename": "smiling-family-eating-breakfast-in-the-hotel-2022-03-08-23-07-07-utc-e1699264705270.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/smiling-family-eating-breakfast-in-the-hotel-2022-03-08-23-07-07-utc-e1699264705270-800x576.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 253526,
+            "dimensions": [
+                1600,
+                1152
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-family-eating-breakfast-in-the-hotel-UJR89CL"
+        },
+        {
+            "filename": "interior-design-of-neutral-bohemian-living-room-2022-12-07-04-26-15-utc3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/interior-design-of-neutral-bohemian-living-room-2022-12-07-04-26-15-utc3-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 322572,
+            "dimensions": [
+                1920,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/interior-design-of-neutral-bohemian-living-room-in-SCDH6SL"
+        },
+        {
+            "filename": "Image-GYX72HV.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/11\/Image-GYX72HV-800x538.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 250729,
+            "dimensions": [
+                1920,
+                1292
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GYX72HV"
+        },
+        {
+            "filename": "interior-design-of-neutral-bohemian-living-room-in-2022-12-07-04-16-14-utc2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/interior-design-of-neutral-bohemian-living-room-in-2022-12-07-04-16-14-utc2-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                }
+            ],
+            "filesize": 310188,
+            "dimensions": [
+                1920,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/interior-design-of-neutral-bohemian-living-room-in-LXKWHPN"
+        },
+        {
+            "filename": "icon-features-parking-3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-parking-3.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 3769,
+            "dimensions": [
+                158,
+                160
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/github.com\/Pictogrammers\/MaterialDesignLight"
+        },
+        {
+            "filename": "icon-features-dinner-4.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-dinner-4.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 3902,
+            "dimensions": [
+                158,
+                160
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/github.com\/tailwindlabs\/heroicons"
+        },
+        {
+            "filename": "icon-features-pool-5.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/10\/icon-features-pool-5.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 2090,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/github.com\/CoreyGinnivan\/system-uicons"
+        },
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/09\/Logo-800x121.png",
+            "templates": [
+                {
+                    "source": "templates\/jkit-off-canvas.json",
+                    "name": "JKit - Off Canvas"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 13695,
+            "dimensions": [
+                1373,
+                207
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/luxeliving\/"
+        }
+    ]
+}

@@ -228,7 +228,6 @@ if ( ! class_exists( 'Astra_Beaver_Themer' ) ) :
 
 			// If we have a footer, remove the theme footer and hook in Theme Builder's.
 			if ( ! empty( $footer_ids ) ) {
-				remove_action( 'astra_footer', array( Astra_Builder_Footer::get_instance(), 'footer_markup' ) );
 				remove_action( 'astra_footer', 'astra_footer_markup' );
 				add_action( 'astra_footer', 'FLThemeBuilderLayoutRenderer::render_footer' );
 			}

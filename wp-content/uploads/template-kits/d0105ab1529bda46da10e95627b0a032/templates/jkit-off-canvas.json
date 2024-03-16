@@ -1,0 +1,263 @@
+{
+    "version": "0.4",
+    "title": "JKit &#8211; Off Canvas",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "6edea950",
+            "settings": {
+                "boxed_width": {
+                    "unit": "px",
+                    "size": "1240",
+                    "sizes": []
+                },
+                "background_color": "#0F0F0F",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": "1"
+                },
+                "background_overlay_color": "#0F0F0F",
+                "background_background": "classic"
+            },
+            "elements": [
+                {
+                    "id": "2ea68294",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "column"
+                    },
+                    "elements": [
+                        {
+                            "id": "72d28b59",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/templatekit.jegtheme.com\/luxeliving\/wp-content\/uploads\/sites\/409\/2023\/09\/Logo.png",
+                                    "id": "664",
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "align": "left",
+                                "width": {
+                                    "unit": "px",
+                                    "size": "208",
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "space": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "eeb2630",
+                            "settings": {
+                                "align": "left",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": "310",
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=8437c3e",
+                                    "text_color": "globals\/colors?id=1d07d69"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "68a62813",
+                            "settings": {
+                                "title": "Get in Touch",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=5408dcb",
+                                    "title_color": "globals\/colors?id=f0e0728"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "11605d9",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Jl. Raya Ubud No. 101, Gianyar - Bali, Indonesia",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "e017e09"
+                                    },
+                                    {
+                                        "text": "(+62)-822-3434-1212",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "cb8e4a4"
+                                    },
+                                    {
+                                        "text": "luxeliving@gmail.com",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "1f15966"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": "10",
+                                    "sizes": []
+                                },
+                                "text_color": "#FFFFFF80",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": "196",
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_typography_typography": "globals\/typography?id=8437c3e",
+                                    "text_color_hover": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3d1dfbfb",
+                            "settings": {
+                                "title": "Connect with Us",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=5408dcb",
+                                    "title_color": "globals\/colors?id=f0e0728"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "330",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "37497ebf",
+                            "settings": {
+                                "social_icon_list": [
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-whatsapp",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "48f9030",
+                                        "item_icon_color": "custom",
+                                        "item_icon_primary_color": "#02010100"
+                                    },
+                                    {
+                                        "_id": "cff898d",
+                                        "social_icon": {
+                                            "value": "fab fa-instagram",
+                                            "library": "fa-brands"
+                                        },
+                                        "item_icon_color": "custom",
+                                        "item_icon_primary_color": "#02010100"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-facebook",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "c166709",
+                                        "item_icon_color": "custom",
+                                        "item_icon_primary_color": "#02010100"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-youtube",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "8067661",
+                                        "item_icon_color": "custom",
+                                        "item_icon_primary_color": "#02010100"
+                                    }
+                                ],
+                                "shape": "circle",
+                                "align": "left",
+                                "icon_color": "custom",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": "24",
+                                    "sizes": []
+                                },
+                                "icon_padding": {
+                                    "unit": "em",
+                                    "size": "0",
+                                    "sizes": []
+                                },
+                                "icon_spacing": {
+                                    "unit": "px",
+                                    "size": "20",
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "hover_secondary_color": "globals\/colors?id=primary",
+                                    "icon_primary_color": "globals\/colors?id=6a59089"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "social-icons",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "1",
+                    "elType": "container"
+                }
+            ],
+            "isInner": "",
+            "elType": "container"
+        }
+    ]
+}

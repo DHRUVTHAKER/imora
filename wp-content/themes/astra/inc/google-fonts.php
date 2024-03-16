@@ -472,12 +472,6 @@ return array(
 		),
 	),
 	array(
-		'Annapurna SIL' => array(
-			'variants' => array( 'regular', '700' ),
-			'category' => 'serif',
-		),
-	),
-	array(
 		'Annie Use Your Telescope' => array(
 			'variants' => array( 'regular' ),
 			'category' => 'handwriting',
@@ -487,12 +481,6 @@ return array(
 		'Anonymous Pro' => array(
 			'variants' => array( 'regular', 'italic', '700', '700italic' ),
 			'category' => 'monospace',
-		),
-	),
-	array(
-		'Anta' => array(
-			'variants' => array( 'regular' ),
-			'category' => 'sans-serif',
 		),
 	),
 	array(
@@ -3364,12 +3352,6 @@ return array(
 		),
 	),
 	array(
-		'Honk' => array(
-			'variants' => array( 'regular' ),
-			'category' => 'display',
-		),
-	),
-	array(
 		'Hubballi' => array(
 			'variants' => array( 'regular' ),
 			'category' => 'sans-serif',
@@ -3661,12 +3643,6 @@ return array(
 		'Itim' => array(
 			'variants' => array( 'regular' ),
 			'category' => 'handwriting',
-		),
-	),
-	array(
-		'Jacquarda Bastarda 9' => array(
-			'variants' => array( 'regular' ),
-			'category' => 'display',
 		),
 	),
 	array(
@@ -4009,12 +3985,6 @@ return array(
 		'Kodchasan' => array(
 			'variants' => array( '200', '200italic', '300', '300italic', 'regular', 'italic', '500', '500italic', '600', '600italic', '700', '700italic' ),
 			'category' => 'sans-serif',
-		),
-	),
-	array(
-		'Kode Mono' => array(
-			'variants' => array( 'regular', '500', '600', '700' ),
-			'category' => 'monospace',
 		),
 	),
 	array(
@@ -4918,12 +4888,6 @@ return array(
 		),
 	),
 	array(
-		'Micro 5' => array(
-			'variants' => array( 'regular' ),
-			'category' => 'display',
-		),
-	),
-	array(
 		'Milonga' => array(
 			'variants' => array( 'regular' ),
 			'category' => 'display',
@@ -5257,12 +5221,6 @@ return array(
 		'Nabla' => array(
 			'variants' => array( 'regular' ),
 			'category' => 'display',
-		),
-	),
-	array(
-		'Namdhinggo' => array(
-			'variants' => array( 'regular', '500', '600', '700', '800' ),
-			'category' => 'serif',
 		),
 	),
 	array(
@@ -7318,30 +7276,6 @@ return array(
 		),
 	),
 	array(
-		'Protest Guerrilla' => array(
-			'variants' => array( 'regular' ),
-			'category' => 'display',
-		),
-	),
-	array(
-		'Protest Revolution' => array(
-			'variants' => array( 'regular' ),
-			'category' => 'display',
-		),
-	),
-	array(
-		'Protest Riot' => array(
-			'variants' => array( 'regular' ),
-			'category' => 'display',
-		),
-	),
-	array(
-		'Protest Strike' => array(
-			'variants' => array( 'regular' ),
-			'category' => 'display',
-		),
-	),
-	array(
 		'Proza Libre' => array(
 			'variants' => array( 'regular', 'italic', '500', '500italic', '600', '600italic', '700', '700italic', '800', '800italic' ),
 			'category' => 'sans-serif',
@@ -7853,12 +7787,6 @@ return array(
 	),
 	array(
 		'Rubik Glitch' => array(
-			'variants' => array( 'regular' ),
-			'category' => 'display',
-		),
-	),
-	array(
-		'Rubik Glitch Pop' => array(
 			'variants' => array( 'regular' ),
 			'category' => 'display',
 		),
@@ -8383,12 +8311,6 @@ return array(
 		'Six Caps' => array(
 			'variants' => array( 'regular' ),
 			'category' => 'sans-serif',
-		),
-	),
-	array(
-		'Sixtyfour' => array(
-			'variants' => array( 'regular' ),
-			'category' => 'monospace',
 		),
 	),
 	array(
@@ -9427,12 +9349,6 @@ return array(
 		'Work Sans' => array(
 			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700', '800', '900', '100italic', '200italic', '300italic', 'italic', '500italic', '600italic', '700italic', '800italic', '900italic' ),
 			'category' => 'sans-serif',
-		),
-	),
-	array(
-		'Workbench' => array(
-			'variants' => array( 'regular' ),
-			'category' => 'monospace',
 		),
 	),
 	array(
